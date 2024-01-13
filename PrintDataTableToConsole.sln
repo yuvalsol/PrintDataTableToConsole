@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintData", "PrintData\PrintData.csproj", "{9C0437C3-9283-45D1-B5B9-0FF95917C2B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{81FD4FCE-82F5-42B9-B5EC-603C869FA88B}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{20257E16-B478-4E2F-9526-FF70A81D9929}"
+	ProjectSection(SolutionItems) = preProject
+		Solution Items\Images\Print.jpg = Solution Items\Images\Print.jpg
+		Solution Items\Images\PrintTop5.jpg = Solution Items\Images\PrintTop5.jpg
+		Solution Items\Images\PrintASCIIBorder.jpg = Solution Items\Images\PrintASCIIBorder.jpg
+		Solution Items\Images\PrintColumns.jpg = Solution Items\Images\PrintColumns.jpg
+		Solution Items\Images\PrintList3ColumnsHorizontal.jpg = Solution Items\Images\PrintList3ColumnsHorizontal.jpg
+		Solution Items\Images\PrintList.jpg = Solution Items\Images\PrintList.jpg
+		Solution Items\Images\PrintCustomDate.jpg = Solution Items\Images\PrintCustomDate.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0437C3-9283-45D1-B5B9-0FF95917C2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0437C3-9283-45D1-B5B9-0FF95917C2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0437C3-9283-45D1-B5B9-0FF95917C2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0437C3-9283-45D1-B5B9-0FF95917C2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{20257E16-B478-4E2F-9526-FF70A81D9929} = {81FD4FCE-82F5-42B9-B5EC-603C869FA88B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3B41759-99B3-4FB5-AE71-53E38785642B}
+	EndGlobalSection
+EndGlobal
